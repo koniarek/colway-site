@@ -59,7 +59,7 @@ export class Navigation extends Component {
                 <NavLink to="/blog/">Blog</NavLink>
               </div>
             </div>
-            <a href='https://centrumkolagenu-sklep.netlify.com/'>Sklep</a>
+            <a href='colwaystore.netlify.com'>Sklep</a>
             <NavLink to="/contact/">Kontakt</NavLink>
           </div>
           <button
