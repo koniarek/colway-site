@@ -1,5 +1,4 @@
 import React from "react";
-import InstagramFeed from "./InstagramFeed";
 import "./Footer.css";
 
 export default () => (
@@ -9,13 +8,15 @@ export default () => (
       <a href="https://www.instagram.com/centrumkolagenu_com/">
         @centrumkolagenu_com
       </a>
+      <a href="https://www.facebook.com/centrumkolagenucom/">
+        @centrumkolagenucom
+      </a>
     </h2>
     <br />
-    <InstagramFeed count="8" />
     <footer className="footer">
       <div className="container taCenter">
         <span>
-          © Copyright {new Date().getFullYear()} All rights reserved. Crafted by{" "}
+          © Copyright {new Date().getFullYear()} All rights reserved for Centrum Kolagenu Naturalnego Barbara Baszak. Crafted by{" "}
           <a>SK Web Architecture</a>.
         </span>
       </div>
