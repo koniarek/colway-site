@@ -13,7 +13,7 @@ meta:
   description: Kolagenowa Odnowa
   title: Kolagenowa Odnowa - Zestawy Colway International
 ---
-![Test Image](https://ucarecdn.com/ac9898a0-413a-467b-95fa-0a9959c30710/)
+![Zestaw Kolagenowa Odnowa](https://ucarecdn.com/d16836fd-4bbb-4119-b411-a53e8e87d9cf/)
 
  KOLAGENOWA ODNOWA. Jeśli chcesz przejść kolagenową odnowę, to przyjdź do naszego Centrum Kolagenu Naturalnego We Wrocławiu. Na miejscu dobierzemy specjalnie do twoich indywidualnych potrzeb kosmetyki wszystkie na bazie unikalnego naturalnego kolagenu.
 

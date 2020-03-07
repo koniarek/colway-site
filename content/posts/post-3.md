@@ -2,14 +2,17 @@
 template: SinglePost
 title: Vitalni do 100
 status: Published
-date: '2018-05-25'
-featuredImage: >- 
+date: '2020-03-06'
+featuredImage: >- 'vitalni.png'
 excerpt: >-
-  This is placeholder text.
+   Placeholder text.
+categories:
+  - category: Updates
 meta:
   description: Colway Program Vitalni do 100
   title: Program Vitalni do 100
 ---
+![Zestaw Vitalni do 100](https://ucarecdn.com/e045bfa2-9d17-4db6-ac62-b674439e0d09/)
 
 #Program Vitalni do 100
 
