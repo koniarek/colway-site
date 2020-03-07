@@ -8,6 +8,7 @@ export default () => (
       <a href="https://www.instagram.com/centrumkolagenu_com/">
         @centrumkolagenu_com
       </a>
+      <br/>
       <a href="https://www.facebook.com/centrumkolagenucom/">
         @centrumkolagenucom
       </a>
