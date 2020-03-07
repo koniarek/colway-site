@@ -2,7 +2,7 @@
 template: ContactPage
 slug: contact
 title: Kontakt
-featuredImage: 'https://ucarecdn.com/e209091b-99cd-48fe-ac1e-360f42d51ad8'
+featuredImage: 'https://ucarecdn.com/a8262b3d-4897-4cc9-9ff2-8b08e0f18071/'
 subtitle: Centrum Kolagenu.
 address: 'Powstańców Śląskich 7a, 53-332 Wrocław'
 phone: +48 603 679 007

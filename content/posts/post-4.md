@@ -15,8 +15,8 @@ meta:
 ---
 ![Test Image](https://ucarecdn.com/b7806540-3348-44ff-99df-0dd2f5d9d40e/)
 
-#Colway Na-STO-latki
+##Colway Na-STO-latki
 
-##Jeśli Ty, twoje dziecko lub bliska ci osoba zmaga się z problemem trądziku skontaktuj się z nami mailowo lub telefonicznie. Umówimy konsultacje w naszym Centrum Kolagenu Naturalnego i pomożemy w doborze odpowiednich kosmetyków. Umów się z nami
+Jeśli Ty, twoje dziecko lub bliska ci osoba zmaga się z problemem trądziku skontaktuj się z nami mailowo lub telefonicznie. Umówimy konsultacje w naszym Centrum Kolagenu Naturalnego i pomożemy w doborze odpowiednich kosmetyków. Umów się z nami
 
 

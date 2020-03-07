@@ -12,11 +12,11 @@ meta:
   description: Bony Upominkowe
   title: BONY UPOMINKOWE Centrum Kolagenu Naturalnego
 ---
-#BONY UPOMINKOWE Centrum Kolagenu Naturalnego 100 zł, 200 zł, 300, 400, 500 zł. 
+##BONY UPOMINKOWE Centrum Kolagenu Naturalnego 
 
 ##Zasady promocji: 
 
-Jeśli chcesz zrobić prezent bliskiej osobie kup bon upominkowy do wykorzystania w naszym stacjonarnym Centrum Kolagenu Naturalnego znajdującego się we Wrocławiu przy ul. Powstańców Śląskich 7a
+Jeśli chcesz zrobić prezent bliskiej osobie, podaruj jej bon upominkowy (o wartości PLN: 100, 200, 300, 400, 500), do wykorzystania w naszym stacjonarnym Centrum Kolagenu Naturalnego znajdującego się we Wrocławiu przy ul. Powstańców Śląskich 7a
 Wroclaw, Polska.
  
  Przy wykorzystaniu bonu, osoba ta otrzyma od nas profesjonalna konsultacje w doborze kosmetyków, lub suplementów dopasowanych do indywidualnych potrzeb.

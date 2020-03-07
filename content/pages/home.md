@@ -2,7 +2,7 @@
 template: HomePage
 slug: ""
 title: Centrum Kolagenu
-featuredImage: 'https://ucarecdn.com/e209091b-99cd-48fe-ac1e-360f42d51ad8'
+featuredImage: 'https://ucarecdn.com/a32521d9-e98d-43ca-9571-c20c5fad4196/'
 subtitle: " Oficjalny dystrybutor produktów Colway."
 meta:
   description: Centrum Kolagenu - Colway.

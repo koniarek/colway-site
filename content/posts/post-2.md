@@ -4,7 +4,7 @@ title: Kolagenowa Odnowa
 status: Featured / Published
 date: '2020-03-06'
 featuredImage: >-
-  https://ucarecdn.com/f540281a-41cf-4bfa-8181-b172e2655fba/-/crop/1632x1777/0,672/-/preview/
+  https://ucarecdn.com/d16836fd-4bbb-4119-b411-a53e8e87d9cf/
 excerpt: >-
    Placeholder text.
 categories:
