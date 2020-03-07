@@ -3,7 +3,7 @@ template: SinglePost
 title: Vitalni do 100
 status: Published
 date: '2020-03-06'
-featuredImage: >- 'static/images/vitalni.png'
+featuredImage: vitalni.png
 excerpt: >-
    Placeholder text.
 categories:
