@@ -3,8 +3,7 @@ template: SinglePost
 title: Kolagenowa Odnowa
 status: Featured / Published
 date: '2020-03-06'
-featuredImage: >-
-  https://ucarecdn.com/d16836fd-4bbb-4119-b411-a53e8e87d9cf/
+featuredImage: 'https://ucarecdn.com/d16836fd-4bbb-4119-b411-a53e8e87d9cf/'
 excerpt: >-
    Placeholder text.
 categories:
